@@ -1,0 +1,15 @@
+C:\Works\MyCore\OOP\app\repository_pattern\bin\Debug\net6.0\repository_pattern.exe
+C:\Works\MyCore\OOP\app\repository_pattern\bin\Debug\net6.0\repository_pattern.deps.json
+C:\Works\MyCore\OOP\app\repository_pattern\bin\Debug\net6.0\repository_pattern.runtimeconfig.json
+C:\Works\MyCore\OOP\app\repository_pattern\bin\Debug\net6.0\repository_pattern.dll
+C:\Works\MyCore\OOP\app\repository_pattern\bin\Debug\net6.0\repository_pattern.pdb
+C:\Works\MyCore\OOP\app\repository_pattern\obj\Debug\net6.0\repository_pattern.csproj.AssemblyReference.cache
+C:\Works\MyCore\OOP\app\repository_pattern\obj\Debug\net6.0\repository_pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Works\MyCore\OOP\app\repository_pattern\obj\Debug\net6.0\repository_pattern.AssemblyInfoInputs.cache
+C:\Works\MyCore\OOP\app\repository_pattern\obj\Debug\net6.0\repository_pattern.AssemblyInfo.cs
+C:\Works\MyCore\OOP\app\repository_pattern\obj\Debug\net6.0\repository_pattern.csproj.CoreCompileInputs.cache
+C:\Works\MyCore\OOP\app\repository_pattern\obj\Debug\net6.0\repository_pattern.dll
+C:\Works\MyCore\OOP\app\repository_pattern\obj\Debug\net6.0\refint\repository_pattern.dll
+C:\Works\MyCore\OOP\app\repository_pattern\obj\Debug\net6.0\repository_pattern.pdb
+C:\Works\MyCore\OOP\app\repository_pattern\obj\Debug\net6.0\repository_pattern.genruntimeconfig.cache
+C:\Works\MyCore\OOP\app\repository_pattern\obj\Debug\net6.0\ref\repository_pattern.dll

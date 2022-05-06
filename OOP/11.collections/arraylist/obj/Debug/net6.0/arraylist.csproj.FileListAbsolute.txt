@@ -1,0 +1,15 @@
+C:\Works\MyCore\OOP\11.collections\arraylist\bin\Debug\net6.0\arraylist.exe
+C:\Works\MyCore\OOP\11.collections\arraylist\bin\Debug\net6.0\arraylist.deps.json
+C:\Works\MyCore\OOP\11.collections\arraylist\bin\Debug\net6.0\arraylist.runtimeconfig.json
+C:\Works\MyCore\OOP\11.collections\arraylist\bin\Debug\net6.0\arraylist.dll
+C:\Works\MyCore\OOP\11.collections\arraylist\bin\Debug\net6.0\arraylist.pdb
+C:\Works\MyCore\OOP\11.collections\arraylist\obj\Debug\net6.0\arraylist.csproj.AssemblyReference.cache
+C:\Works\MyCore\OOP\11.collections\arraylist\obj\Debug\net6.0\arraylist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Works\MyCore\OOP\11.collections\arraylist\obj\Debug\net6.0\arraylist.AssemblyInfoInputs.cache
+C:\Works\MyCore\OOP\11.collections\arraylist\obj\Debug\net6.0\arraylist.AssemblyInfo.cs
+C:\Works\MyCore\OOP\11.collections\arraylist\obj\Debug\net6.0\arraylist.csproj.CoreCompileInputs.cache
+C:\Works\MyCore\OOP\11.collections\arraylist\obj\Debug\net6.0\arraylist.dll
+C:\Works\MyCore\OOP\11.collections\arraylist\obj\Debug\net6.0\refint\arraylist.dll
+C:\Works\MyCore\OOP\11.collections\arraylist\obj\Debug\net6.0\arraylist.pdb
+C:\Works\MyCore\OOP\11.collections\arraylist\obj\Debug\net6.0\arraylist.genruntimeconfig.cache
+C:\Works\MyCore\OOP\11.collections\arraylist\obj\Debug\net6.0\ref\arraylist.dll

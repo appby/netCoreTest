@@ -1,0 +1,15 @@
+C:\Works\MyCore\OOP\11.collections\generic_list\bin\Debug\net6.0\generic_list.exe
+C:\Works\MyCore\OOP\11.collections\generic_list\bin\Debug\net6.0\generic_list.deps.json
+C:\Works\MyCore\OOP\11.collections\generic_list\bin\Debug\net6.0\generic_list.runtimeconfig.json
+C:\Works\MyCore\OOP\11.collections\generic_list\bin\Debug\net6.0\generic_list.dll
+C:\Works\MyCore\OOP\11.collections\generic_list\bin\Debug\net6.0\generic_list.pdb
+C:\Works\MyCore\OOP\11.collections\generic_list\obj\Debug\net6.0\generic_list.csproj.AssemblyReference.cache
+C:\Works\MyCore\OOP\11.collections\generic_list\obj\Debug\net6.0\generic_list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Works\MyCore\OOP\11.collections\generic_list\obj\Debug\net6.0\generic_list.AssemblyInfoInputs.cache
+C:\Works\MyCore\OOP\11.collections\generic_list\obj\Debug\net6.0\generic_list.AssemblyInfo.cs
+C:\Works\MyCore\OOP\11.collections\generic_list\obj\Debug\net6.0\generic_list.csproj.CoreCompileInputs.cache
+C:\Works\MyCore\OOP\11.collections\generic_list\obj\Debug\net6.0\generic_list.dll
+C:\Works\MyCore\OOP\11.collections\generic_list\obj\Debug\net6.0\refint\generic_list.dll
+C:\Works\MyCore\OOP\11.collections\generic_list\obj\Debug\net6.0\generic_list.pdb
+C:\Works\MyCore\OOP\11.collections\generic_list\obj\Debug\net6.0\generic_list.genruntimeconfig.cache
+C:\Works\MyCore\OOP\11.collections\generic_list\obj\Debug\net6.0\ref\generic_list.dll

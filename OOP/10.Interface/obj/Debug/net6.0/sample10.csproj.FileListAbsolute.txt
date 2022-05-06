@@ -1,0 +1,15 @@
+C:\Works\MyCore\OOP\sample10\obj\Debug\net6.0\sample10.csproj.AssemblyReference.cache
+C:\Works\MyCore\OOP\sample10\obj\Debug\net6.0\sample10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Works\MyCore\OOP\sample10\obj\Debug\net6.0\sample10.AssemblyInfoInputs.cache
+C:\Works\MyCore\OOP\sample10\obj\Debug\net6.0\sample10.AssemblyInfo.cs
+C:\Works\MyCore\OOP\sample10\obj\Debug\net6.0\sample10.csproj.CoreCompileInputs.cache
+C:\Works\MyCore\OOP\sample10\bin\Debug\net6.0\sample10.exe
+C:\Works\MyCore\OOP\sample10\bin\Debug\net6.0\sample10.deps.json
+C:\Works\MyCore\OOP\sample10\bin\Debug\net6.0\sample10.runtimeconfig.json
+C:\Works\MyCore\OOP\sample10\bin\Debug\net6.0\sample10.dll
+C:\Works\MyCore\OOP\sample10\bin\Debug\net6.0\sample10.pdb
+C:\Works\MyCore\OOP\sample10\obj\Debug\net6.0\sample10.dll
+C:\Works\MyCore\OOP\sample10\obj\Debug\net6.0\refint\sample10.dll
+C:\Works\MyCore\OOP\sample10\obj\Debug\net6.0\sample10.pdb
+C:\Works\MyCore\OOP\sample10\obj\Debug\net6.0\sample10.genruntimeconfig.cache
+C:\Works\MyCore\OOP\sample10\obj\Debug\net6.0\ref\sample10.dll

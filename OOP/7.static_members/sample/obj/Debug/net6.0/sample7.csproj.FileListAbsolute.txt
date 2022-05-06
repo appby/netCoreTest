@@ -1,0 +1,15 @@
+C:\Works\MyCore\OOP\sample7\bin\Debug\net6.0\sample7.exe
+C:\Works\MyCore\OOP\sample7\bin\Debug\net6.0\sample7.deps.json
+C:\Works\MyCore\OOP\sample7\bin\Debug\net6.0\sample7.runtimeconfig.json
+C:\Works\MyCore\OOP\sample7\bin\Debug\net6.0\sample7.dll
+C:\Works\MyCore\OOP\sample7\bin\Debug\net6.0\sample7.pdb
+C:\Works\MyCore\OOP\sample7\obj\Debug\net6.0\sample7.csproj.AssemblyReference.cache
+C:\Works\MyCore\OOP\sample7\obj\Debug\net6.0\sample7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Works\MyCore\OOP\sample7\obj\Debug\net6.0\sample7.AssemblyInfoInputs.cache
+C:\Works\MyCore\OOP\sample7\obj\Debug\net6.0\sample7.AssemblyInfo.cs
+C:\Works\MyCore\OOP\sample7\obj\Debug\net6.0\sample7.csproj.CoreCompileInputs.cache
+C:\Works\MyCore\OOP\sample7\obj\Debug\net6.0\sample7.dll
+C:\Works\MyCore\OOP\sample7\obj\Debug\net6.0\refint\sample7.dll
+C:\Works\MyCore\OOP\sample7\obj\Debug\net6.0\sample7.pdb
+C:\Works\MyCore\OOP\sample7\obj\Debug\net6.0\sample7.genruntimeconfig.cache
+C:\Works\MyCore\OOP\sample7\obj\Debug\net6.0\ref\sample7.dll

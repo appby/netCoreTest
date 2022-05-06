@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ephx5Qga5b1/DuO7t7kU0he2vXAn42cbGe6jlgdU9/vOGftuCgKyPChFhdXHfIMtTDp7Bw/MZcHJqVAoudn0/w==",
+  "success": true,
+  "projectFilePath": "C:\\Works\\MyCore\\OOP\\sample6\\app\\ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mgencer\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\mgencer\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\mgencer\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\mgencer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}

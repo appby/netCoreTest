@@ -1,0 +1,15 @@
+C:\Works\MyCore\OOP\3methods_with_params\bin\Debug\net6.0\3methods_with_params.exe
+C:\Works\MyCore\OOP\3methods_with_params\bin\Debug\net6.0\3methods_with_params.deps.json
+C:\Works\MyCore\OOP\3methods_with_params\bin\Debug\net6.0\3methods_with_params.runtimeconfig.json
+C:\Works\MyCore\OOP\3methods_with_params\bin\Debug\net6.0\3methods_with_params.dll
+C:\Works\MyCore\OOP\3methods_with_params\bin\Debug\net6.0\3methods_with_params.pdb
+C:\Works\MyCore\OOP\3methods_with_params\obj\Debug\net6.0\3methods_with_params.csproj.AssemblyReference.cache
+C:\Works\MyCore\OOP\3methods_with_params\obj\Debug\net6.0\3methods_with_params.GeneratedMSBuildEditorConfig.editorconfig
+C:\Works\MyCore\OOP\3methods_with_params\obj\Debug\net6.0\3methods_with_params.AssemblyInfoInputs.cache
+C:\Works\MyCore\OOP\3methods_with_params\obj\Debug\net6.0\3methods_with_params.AssemblyInfo.cs
+C:\Works\MyCore\OOP\3methods_with_params\obj\Debug\net6.0\3methods_with_params.csproj.CoreCompileInputs.cache
+C:\Works\MyCore\OOP\3methods_with_params\obj\Debug\net6.0\3methods_with_params.dll
+C:\Works\MyCore\OOP\3methods_with_params\obj\Debug\net6.0\refint\3methods_with_params.dll
+C:\Works\MyCore\OOP\3methods_with_params\obj\Debug\net6.0\3methods_with_params.pdb
+C:\Works\MyCore\OOP\3methods_with_params\obj\Debug\net6.0\3methods_with_params.genruntimeconfig.cache
+C:\Works\MyCore\OOP\3methods_with_params\obj\Debug\net6.0\ref\3methods_with_params.dll

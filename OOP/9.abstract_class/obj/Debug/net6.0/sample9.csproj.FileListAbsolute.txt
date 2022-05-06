@@ -1,0 +1,15 @@
+C:\Works\MyCore\OOP\sample9\bin\Debug\net6.0\sample9.exe
+C:\Works\MyCore\OOP\sample9\bin\Debug\net6.0\sample9.deps.json
+C:\Works\MyCore\OOP\sample9\bin\Debug\net6.0\sample9.runtimeconfig.json
+C:\Works\MyCore\OOP\sample9\bin\Debug\net6.0\sample9.dll
+C:\Works\MyCore\OOP\sample9\bin\Debug\net6.0\sample9.pdb
+C:\Works\MyCore\OOP\sample9\obj\Debug\net6.0\sample9.csproj.AssemblyReference.cache
+C:\Works\MyCore\OOP\sample9\obj\Debug\net6.0\sample9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Works\MyCore\OOP\sample9\obj\Debug\net6.0\sample9.AssemblyInfoInputs.cache
+C:\Works\MyCore\OOP\sample9\obj\Debug\net6.0\sample9.AssemblyInfo.cs
+C:\Works\MyCore\OOP\sample9\obj\Debug\net6.0\sample9.csproj.CoreCompileInputs.cache
+C:\Works\MyCore\OOP\sample9\obj\Debug\net6.0\sample9.dll
+C:\Works\MyCore\OOP\sample9\obj\Debug\net6.0\refint\sample9.dll
+C:\Works\MyCore\OOP\sample9\obj\Debug\net6.0\sample9.pdb
+C:\Works\MyCore\OOP\sample9\obj\Debug\net6.0\sample9.genruntimeconfig.cache
+C:\Works\MyCore\OOP\sample9\obj\Debug\net6.0\ref\sample9.dll

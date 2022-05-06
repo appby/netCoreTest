@@ -1,0 +1,15 @@
+C:\Works\MyCore\OOP\11.collections\dictionary\bin\Debug\net6.0\dictionary.exe
+C:\Works\MyCore\OOP\11.collections\dictionary\bin\Debug\net6.0\dictionary.deps.json
+C:\Works\MyCore\OOP\11.collections\dictionary\bin\Debug\net6.0\dictionary.runtimeconfig.json
+C:\Works\MyCore\OOP\11.collections\dictionary\bin\Debug\net6.0\dictionary.dll
+C:\Works\MyCore\OOP\11.collections\dictionary\bin\Debug\net6.0\dictionary.pdb
+C:\Works\MyCore\OOP\11.collections\dictionary\obj\Debug\net6.0\dictionary.csproj.AssemblyReference.cache
+C:\Works\MyCore\OOP\11.collections\dictionary\obj\Debug\net6.0\dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Works\MyCore\OOP\11.collections\dictionary\obj\Debug\net6.0\dictionary.AssemblyInfoInputs.cache
+C:\Works\MyCore\OOP\11.collections\dictionary\obj\Debug\net6.0\dictionary.AssemblyInfo.cs
+C:\Works\MyCore\OOP\11.collections\dictionary\obj\Debug\net6.0\dictionary.csproj.CoreCompileInputs.cache
+C:\Works\MyCore\OOP\11.collections\dictionary\obj\Debug\net6.0\dictionary.dll
+C:\Works\MyCore\OOP\11.collections\dictionary\obj\Debug\net6.0\refint\dictionary.dll
+C:\Works\MyCore\OOP\11.collections\dictionary\obj\Debug\net6.0\dictionary.pdb
+C:\Works\MyCore\OOP\11.collections\dictionary\obj\Debug\net6.0\dictionary.genruntimeconfig.cache
+C:\Works\MyCore\OOP\11.collections\dictionary\obj\Debug\net6.0\ref\dictionary.dll
