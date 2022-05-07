@@ -1,0 +1,15 @@
+C:\Works\MyCore\ExceptionManagement\app\app_1\bin\Debug\net6.0\app_1.exe
+C:\Works\MyCore\ExceptionManagement\app\app_1\bin\Debug\net6.0\app_1.deps.json
+C:\Works\MyCore\ExceptionManagement\app\app_1\bin\Debug\net6.0\app_1.runtimeconfig.json
+C:\Works\MyCore\ExceptionManagement\app\app_1\bin\Debug\net6.0\app_1.dll
+C:\Works\MyCore\ExceptionManagement\app\app_1\bin\Debug\net6.0\app_1.pdb
+C:\Works\MyCore\ExceptionManagement\app\app_1\obj\Debug\net6.0\app_1.csproj.AssemblyReference.cache
+C:\Works\MyCore\ExceptionManagement\app\app_1\obj\Debug\net6.0\app_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Works\MyCore\ExceptionManagement\app\app_1\obj\Debug\net6.0\app_1.AssemblyInfoInputs.cache
+C:\Works\MyCore\ExceptionManagement\app\app_1\obj\Debug\net6.0\app_1.AssemblyInfo.cs
+C:\Works\MyCore\ExceptionManagement\app\app_1\obj\Debug\net6.0\app_1.csproj.CoreCompileInputs.cache
+C:\Works\MyCore\ExceptionManagement\app\app_1\obj\Debug\net6.0\app_1.dll
+C:\Works\MyCore\ExceptionManagement\app\app_1\obj\Debug\net6.0\refint\app_1.dll
+C:\Works\MyCore\ExceptionManagement\app\app_1\obj\Debug\net6.0\app_1.pdb
+C:\Works\MyCore\ExceptionManagement\app\app_1\obj\Debug\net6.0\app_1.genruntimeconfig.cache
+C:\Works\MyCore\ExceptionManagement\app\app_1\obj\Debug\net6.0\ref\app_1.dll

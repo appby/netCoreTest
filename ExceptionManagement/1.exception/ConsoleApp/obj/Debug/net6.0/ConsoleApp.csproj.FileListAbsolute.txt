@@ -1,0 +1,15 @@
+C:\Works\MyCore\ExceptionManagement\1.exception\ConsoleApp\obj\Debug\net6.0\ConsoleApp.csproj.AssemblyReference.cache
+C:\Works\MyCore\ExceptionManagement\1.exception\ConsoleApp\obj\Debug\net6.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Works\MyCore\ExceptionManagement\1.exception\ConsoleApp\obj\Debug\net6.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Works\MyCore\ExceptionManagement\1.exception\ConsoleApp\obj\Debug\net6.0\ConsoleApp.AssemblyInfo.cs
+C:\Works\MyCore\ExceptionManagement\1.exception\ConsoleApp\obj\Debug\net6.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Works\MyCore\ExceptionManagement\1.exception\ConsoleApp\bin\Debug\net6.0\ConsoleApp.exe
+C:\Works\MyCore\ExceptionManagement\1.exception\ConsoleApp\bin\Debug\net6.0\ConsoleApp.deps.json
+C:\Works\MyCore\ExceptionManagement\1.exception\ConsoleApp\bin\Debug\net6.0\ConsoleApp.runtimeconfig.json
+C:\Works\MyCore\ExceptionManagement\1.exception\ConsoleApp\bin\Debug\net6.0\ConsoleApp.dll
+C:\Works\MyCore\ExceptionManagement\1.exception\ConsoleApp\bin\Debug\net6.0\ConsoleApp.pdb
+C:\Works\MyCore\ExceptionManagement\1.exception\ConsoleApp\obj\Debug\net6.0\ConsoleApp.dll
+C:\Works\MyCore\ExceptionManagement\1.exception\ConsoleApp\obj\Debug\net6.0\refint\ConsoleApp.dll
+C:\Works\MyCore\ExceptionManagement\1.exception\ConsoleApp\obj\Debug\net6.0\ConsoleApp.pdb
+C:\Works\MyCore\ExceptionManagement\1.exception\ConsoleApp\obj\Debug\net6.0\ConsoleApp.genruntimeconfig.cache
+C:\Works\MyCore\ExceptionManagement\1.exception\ConsoleApp\obj\Debug\net6.0\ref\ConsoleApp.dll
